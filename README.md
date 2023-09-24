@@ -1,0 +1,2 @@
+# stati1q
+assign
